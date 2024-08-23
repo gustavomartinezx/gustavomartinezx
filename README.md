@@ -6,7 +6,7 @@
 <p> ִֶָ✧ Tenho 18 anos e vim de Belo Horizonte-MG<br></p>
 <p> ִֶָ✧ Almejo trabalhar majotariamente na área de back-end. </p>
 <p> ִֶָ✧ Além da faculdade, aprendendo python e java pelos cursos da allura e udemy.<br></p>
-<p> ִֶָ✧ Estou no P1 de Ciências da Computação e cursando na UNIPÊ<br><br><br></p>
+<p> ִֶָ✧ Estou no P4 de Ciências da Computação e cursando na UNIPÊ<br><br><br></p>
 
 
 -------------------------------------------------------------------------------------------------------------------------
