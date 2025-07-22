@@ -15,7 +15,7 @@
 
 <samp>
 <div align="center">
-  Estudante de <strong>Ciência da Computação</strong> na UNIPÊ, com foco e paixão pelo desenvolvimento <strong>Back-end</strong>. Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de construir sistemas eficientes. Dedico-me a aprofundar meus conhecimentos em ecossistemas como <strong>Python</strong> e <strong>Java</strong> através de projetos práticos e cursos em plataformas como Alura e Udemy. Meu objetivo é transformar problemas complexos em software funcional e de alta qualidade.
+  Estudante de <strong>Ciência da Computação</strong> na UNIPÊ, com foco e paixão pelo desenvolvimento <strong>Fullstack</strong>. Minha jornada na tecnologia é movida pela curiosidade e pelo desafio de construir sistemas eficientes. Dedico-me a aprofundar meus conhecimentos em ecossistemas como <strong>Python</strong> e <strong>Java</strong> através de projetos práticos e cursos em plataformas como Alura e Udemy. Meu objetivo é transformar problemas complexos em software funcional e de alta qualidade.
 </div>
 </samp>
 
